@@ -1,0 +1,21 @@
+.body{
+    background-color: blue
+    ;
+}
+
+.site-nav a{
+    background-color: brown
+    ;
+}
+.test-link{
+    color: black
+    ;
+}
+.test-link:hover,
+.test-link:focus
+{
+    color: tomato;
+}
+.test-link:active{
+    color: rgb(1, 225, 225);
+}
